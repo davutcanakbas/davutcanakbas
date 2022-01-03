@@ -4,7 +4,7 @@
 
 #### Robotics, Coffee and, Code? I'm in!
 
-**_\#roboticist**
+**_\#roboticist_**
 
 _Team Leader of AMR/AGV Unit at [OPTİMAK STU](https://www.linkedin.com/company/optimak-stu/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 
