@@ -16,7 +16,6 @@ _Team Leader of AMR/AGV Unit at [OPTİMAK STU](https://www.linkedin.com/company/
 </div><br><br>
 
 
-<!--
 **Languages and Tools**:
 
 <div class="row">
@@ -59,5 +58,5 @@ _Team Leader of AMR/AGV Unit at [OPTİMAK STU](https://www.linkedin.com/company/
 </div>
 <br><br>
 
--->
+
 
