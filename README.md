@@ -16,7 +16,7 @@ _Team Leader of AMR/AGV Unit at [OPTİMAK STU](https://www.linkedin.com/company/
 </div><br><br>
 
 
-
+<!--
 **Languages and Tools**:
 
 <div class="row">
@@ -55,10 +55,9 @@ _Team Leader of AMR/AGV Unit at [OPTİMAK STU](https://www.linkedin.com/company/
             <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/nocoinman/davutcanakbas/master/assets/img/cmake.png">
         </a>
     </div>
-    <div class="column">
-        <a href="https://www.selenium.dev/">
-            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/nocoinman/davutcanakbas/master/assets/img/selenium.png">
-        </a>
-    </div>
+
 </div>
 <br><br>
+
+-->
+
