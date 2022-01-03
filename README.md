@@ -58,5 +58,23 @@ _Team Leader of AMR/AGV Unit at [OPTİMAK STU](https://www.linkedin.com/company/
 </div>
 <br><br>
 
+---
+
+<div class="row">
+    <div class="column">
+        <a href="https://www.linkedin.com/in/akbasdavutcan/">
+            <img align="right" style="display:block;margin:10px 10px 10px 10px;" height="30" src="https://raw.githubusercontent.com/nocoinman/nocoinman/master/assets/img/linkedin.png">
+        </a>
+    </div>
+<div class="column">
+        <a href="mailto:akbasdavutcan@gmail.com">
+            <img align="right" style="display:block;margin:10px 10px 10px 10px;" height="30" src="https://raw.githubusercontent.com/nocoinman/nocoinman/master/assets/img/gmail.png">
+        </a>
+    </div>
+
+
+
+
+
 
 
