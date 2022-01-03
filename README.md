@@ -16,6 +16,7 @@ _Team Leader of AMR/AGV Unit at [OPTİMAK STU](https://www.linkedin.com/company/
 </div><br><br>
 
 
+<!--
 
 <p align="center" justify="center">
   <a href="https://github.com/davutcanakbas/github-readme-stats" target="_blank" justify="center">
@@ -24,7 +25,7 @@ _Team Leader of AMR/AGV Unit at [OPTİMAK STU](https://www.linkedin.com/company/
   </a>
 </p>
 
-<!--
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=davutcanakbas&theme=gruvbox"/>
