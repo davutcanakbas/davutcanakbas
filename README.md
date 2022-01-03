@@ -1,4 +1,4 @@
-## Hi! Davut Can here <img src="https://media.tenor.com/images/fe6ba816516dec7dcf217454510bdecb/tenor.gif" width="35">
+## Hi! Davut Can here <img src="https://media.tenor.com/images/fe6ba816516dec7dcf217454510bdecb/tenor.gif" width="25">
 
 #### Robotics, Coffee and, Code? I'm in!
 
