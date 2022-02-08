@@ -4,8 +4,6 @@
 
 **_\#roboticist_**
 
-_Team Leader of AMR/AGV Unit at [OPTİMAK STU](https://www.linkedin.com/company/optimak-stu/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-
 
 <div>
     <a href="https://github.com/davutcanakbas">
